@@ -4,17 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a fourth year undergraduate student from the School of Software, Jiangxi Agricultural University. Before that, I used to work with Prof.  Yingqiong Peng .
+I am a first-year PhD student in the Department of Computer Science at the University of New Mexico. I am conducting research in the Hand and Machine Group, with Leah Buechley as my research advisor. My research interests focus on developing new programming environments for computational design, 3D printing, and Developing technologies and techniques that integrate computation, fabrication, and craft. I will officially start my studies in the Fall of 2024.
 
-The scientific research projects I participated in at the university focused on using artificial intelligence to assist farmers in agricultural production. For example, I led the team to develop the "Sericulture Assisted Decision-making" software to provide "crop pest identification and management" services; using and optimizing three-dimensional reconstruction such as Nerf algorithms technology to better characterize and identify crops.
+Prior to this, from 2020 to 2024, I studied at the School of Software Engineering at Jiangxi Agricultural University. My previous research interests were focused on artificial intelligence technologies, image recognition, image style transfer, and 3D reconstruction, under the guidance of my advisor Yingqiong Peng. I successfully graduated in June 2024 with a Bachelor of Engineering degree and was honored as an Outstanding Graduate.
 
-During my undergraduate and ongoing graduate studies, I have developed a profound interest in the fields of computer vision and computer graphics, with a particular focus on three-dimensional reconstruction, 3D scene perception, image rendering, virtual reality, augmented reality, and software programming. My aspiration is to leverage these technologies to enhance robotic assistance in human activities, thereby enriching people’s interaction with virtual environments and improving access to quality education.
+In the summer of 2023, I participated in a short-term study program at the Hong Kong Polytechnic University.
 
-In my free time, I do cross-country mountain climbing, run marathons, and play guitar and record music.
+In my free time, I enjoy reading historical books about the dynasties of China, and I also like outdoor activities such as hiking and swimming.
 
 
 ## Research Interests
 
+-  **3D Printing:** developing new programming environments for computational design
+-  **Intelligent Manufacturing:** develop more efficient software for machines, such as slicing algorithms
 - **Computer Vision:** image recognition, image generation, 
 - **3D Reconstruction:** NeRF(Neural Radiation Field), neural rendering,virtual reality(VR),augmented reality(AR)
 - **HCI:** Human-Computer Interaction (HCI)
